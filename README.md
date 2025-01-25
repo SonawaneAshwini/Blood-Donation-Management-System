@@ -132,6 +132,11 @@ Manage user accounts and ensure compliance with privacy policies.
 The detailed project report, including the analysis, design, and diagrams (DFD, ERD, Use Case, etc.), is included in the repository. Refer to BDMS_Report.pdf for comprehensive documentation.
 
 --- 
+## Acknowledgments
+
+- Django Documentation: [Django](https://docs.djangoproject.com/en/5.1/)
+- Python Official Website: [Python](https://www.python.org/)
+- World Health Organization: [WHO](https://www.who.int/)
 
 ## Contributors ✨
 - Ashwini Sonawane
@@ -140,10 +145,3 @@ The detailed project report, including the analysis, design, and diagrams (DFD, 
 - Shravan Dalavi
   - Contact: shravandalavi137@gmail.com
   - GitHub: [Profile]( https://github.com/ShravanDalavi)
-
-
-## Acknowledgments
-
-Django Documentation: [Django](https://docs.djangoproject.com/en/5.1/)
-Python Official Website: [Python](https://www.python.org/)
-World Health Organization: [WHO](https://www.who.int/)
