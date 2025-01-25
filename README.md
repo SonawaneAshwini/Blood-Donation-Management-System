@@ -133,6 +133,15 @@ The detailed project report, including the analysis, design, and diagrams (DFD, 
 
 --- 
 
+## Contributors ✨
+- Ashwini Sonawane
+  - Contact: ashwinisonawane9853@gmail.com
+  - GitHub: [Profile](https://github.com/SonawaneAshwini)
+- Shravan Dalavi
+  - Contact: shravandalavi137@gmail.com
+  - GitHub: [Profile]( https://github.com/ShravanDalavi)
+
+
 ## Acknowledgments
 
 Django Documentation: [Django](https://docs.djangoproject.com/en/5.1/)
